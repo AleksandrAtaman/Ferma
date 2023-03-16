@@ -26,7 +26,11 @@ public class Animals {
     public String characteristics(){
         String info=" Вес животного "+ weight+ " Цвет животного "+ color+" Потомство в год =" + reproduction+ " Производит "+ production+" Издает звук "+ tolk;
         return info;
+        
     }
+   
+    
+    
 }
 
 
